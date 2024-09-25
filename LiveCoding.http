@@ -1,0 +1,6 @@
+@LiveCoding_HostAddress = http://localhost:5176
+
+POST {{LiveCoding_HostAddress}}/payment/
+Accept: application/json
+
+###
